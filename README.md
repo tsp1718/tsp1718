@@ -15,7 +15,7 @@
   - **1st Place** at **Enigma**, a Data Science and ML Hackathon at IIT BHU’s CodeFest’24.
   - **1st Place** at **Nebulanet**, a Data Science and ML Hackathon at IIT BHU’s Jigyasa’24.
   - **2nd Place** at **AnalyticaX**, a Data Science and ML Competition at IIT Indore’s Fluxus’24.
-  - Achieved the **Top 10 percentile** in IIT Guwahati’s Summer Analytics bootcamp in Data Science and ML.
+  - Achieved the **Top 10 percentile** in IIT Guwahati’s **Summer Analytics** bootcamp in Data Science and ML.
 
 ### 🚀 Skills
 
