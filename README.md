@@ -5,7 +5,6 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tusharpunjabi1718/" target="blank"><img align="center" src="https://img.shields.io/badge/-Tushar%20Punjabi-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://huggingface.co/tsp1718" target="blank"><img align="center" src="https://img.shields.io/badge/HuggingFace-Tushar%20Punjabi-orange?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/></a>
 </p>
 
 <!-- About Me -->
