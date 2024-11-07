@@ -16,6 +16,7 @@
   - **1st Place** at **Nebulanet**, a Data Science and ML Hackathon at IIT BHU’s Jigyasa’24.
   - **2nd Place** at **AnalyticaX**, a Data Science and ML Competition at IIT Indore’s Fluxus’24.
   - Achieved the **Top 10 percentile** in IIT Guwahati’s **Summer Analytics** bootcamp in Data Science and ML.
+  
 
 ### 🚀 Skills
 
@@ -40,9 +41,14 @@
   <img src="https://img.shields.io/badge/Roboflow-FF5722?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow"/>
 </p>
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsp1718&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" />
 </p>
+
+### 🌍 Opensource Contribution 
+[![An image of @tsp1718's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tsp1718)](https://holopin.io/@tsp1718)
+
 
