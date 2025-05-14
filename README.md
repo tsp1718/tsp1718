@@ -11,7 +11,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently in my **fourth year** pursuing a **Bachelor of Technology in Computer Science and Engineering** at Medicaps University, Indore.
-- 🏆 **Achievements:** 
+- 🏆 **Achievements:**
+  - **1st Place** in **Quasar 2.0**, an AI-centric EdTech Hackathon organized by 47Billion, in Feb’25.
   - **1st Place** at **Enigma**, a Data Science and ML Hackathon at IIT BHU’s CodeFest’24.
   - **1st Place** at **Nebulanet**, a Data Science and ML Hackathon at IIT BHU’s Jigyasa’24.
   - **2nd Place** at **AnalyticaX**, a Data Science and ML Competition at IIT Indore’s Fluxus’24.
